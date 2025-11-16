@@ -1,16 +1,21 @@
-## Documentation
+# Documentation
 Reference source collaborative documentation for various software architectures
 
 Designs are baseline, shareable, collaborative for teams
 
-### Diagram Tools
+## Diagram Tools
 
+### Excalidraw Whiteboard
 - [Excalidraw Whiteboard](https://excalidraw.com/) for *.excalidraw files
-.png files generated from *.excalidraw
+
+.png files are generated from *.excalidraw
+
+### Mermaid Chart
 - [Mermaid](https://www.mermaidchart.com/) for system sequence diagrams
 
 
-## MIT License
+## License
+Design docs are available under an MIT License
 
 Copyright © 2025 Bryan B. Cabalo
 
